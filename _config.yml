@@ -20,7 +20,7 @@ timezone: AR
 
 title: J.B.C. # the main title
 
-tagline: Análisis, ideas y pensamientos sueltos.  # it will display as the sub-title
+tagline: Temas que me interesan, cosas flasheras que me llamaron la atencion, análisis random, ideas y pensamientos sueltos.  # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Una recopilacion de cosas que viajan entre conexiones neuronales usando el combustible del alma.
@@ -29,23 +29,25 @@ description: >- # used by seo meta and the atom feed
 url: "https://jeremiasbaez.github.io/"
 
 github:
-  username: github_username # change to your github username
+  username: jeremiasbaezcarballo # change to your github username
+instagram:
+  username: jerebaez5
 
-twitter:
-  username: twitter_username # change to your twitter username
+# twitter:
+#   username: twitter_username # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Jeremias Baez Carballo
-  email: example@domain.com # change to your email address
+  email: jeremiasbaezcarballo@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/username # change to your github homepage
+    # - https://twitter.com/username # change to your twitter homepage
+    - https://github.com/jeremiasbaezcarballo # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/jerebaez
 
 google_site_verification: # fill in to your verification string
 
@@ -76,7 +78,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: 
+avatar: https://avatars.githubusercontent.com/u/23379973?s=400&u=75d8c9a89533358f94a603c326736b0266ec8533&v=4
 
 # boolean type, the global switch for TOC in posts.
 toc: true
