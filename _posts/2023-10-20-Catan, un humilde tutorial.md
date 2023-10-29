@@ -2,8 +2,9 @@
 layout: post
 title: "Catan, un humilde tutorial"
 date: 2023-10-21 08:00:00 -0500
-categories: 
-tags: catan
+categories: ['Juegos de mesa', 'Catan'] 
+tags: ['catan', 'tutoriales']
+published: true
 image:
 ---
 
@@ -67,14 +68,14 @@ Solamente construyendo, se puede llegar a 10 puntos, sin embargo es la estrategi
 ### Ruteando
 Ganar con el camino mas largo es una estrategia que en mi opinion requiere tener buen timing. Sostener la carretera mas larga lleva recursos y planeamiento de espacio para que no nos puedan cortar la carretera, y el mismo creador del juego, cuando fue consultado por un tip para su juego respondió "No tomar la carretera mas larga muy temprano". Esto es por un par de razones, la primera es que se suman 2 puntos, y como sabemos seguramente catan es un juego que naturalmente nos pone a bajar al que va primero para extender la partida. La segunda es que el resto de la mesa se puede distraer hasta que alguien la robe para ganar con esos 2 puntos sorpresivos. Se cae de maduro que requiere de buena madera y buen ladrillo, pero esos son recursos que suelen sobrar cuando la partida se extiende. La forma mas consistente de ganar con esta estrategia es robar al menos 1 PV del mazo, ya que al priorizar todos los materiales menos la piedra, construir ciudades se nos puede complicar. En mi opinion la capacidad de construir una ciudad relativamente temprano es lo que suele definir si un jugador de camino gana o pierde. 
 
-### Timba timba timba
+### Timba timba timba (Cartas de desarrollo)
 Podemos volcar toda nuestra estrategia a lo que nos depara el poderoso mazo de cartas de desarrollo, priorizando la pura producción de piedra, trigo y ovejas en nuestras ubicaciones iniciales. Esta es una de las mejores estrategias, aunque en un principio parezca la mas random, porque las mismas cartas de desarrollo van a darnos cierta flexibilidad, aunque también nos pueden frenar. Por la produccion de piedra y trigo altas, construir ciudades se vuelve mas fácil, pero por otro lado la producción mas alta y los PV hacen que nos bloqueen mas, pero esto se compensa con las cartas de caballero que nos vaya dando el mazo. Lo dificil aca es construir y expandirse, por tener pocos materiales de caminos y poblados. La forma mas fácil de bloquear esta estrategia es justamente, quitarle los lugares de expansión y los puertos al jugador que vaya full cartas de desarrollo, para negarle esa flexibilidad extra. Supuestamente, es la estrategia un poco mas fuerte que las otras cuando se juega bien, aunque es muy dependiente del mapa en mi opinion, y de que te acompañe la Fortuna, aunque eso ya estaba asumido en un juego que involucra dados. Vale aclarar que lo otro que se descarta en esta estrategia es el control del ejercito, a veces requiere tener un buen timing, dejandoselo a alguien antes de robarlo para ganar, o tomarlo para ganarlo definitivamente, la producción para sacar cartas nos tiene que acompañar. 
 
 ### Balanceada, de todo un poco
 Esta es una estrategia que mantiene abiertas todas las posibilidades anteriores para ganar. Buscar tener un poco de cada recurso ya sea con las posiciones iniciales o con la primera expansion, hacer uso eficiente de los puertos y comprar una cantidad moderada de cartas de desarrollo, buscando sorprender con buen timing ya sea con el control del ejercito o el control de la ruta, o PV's ocultos. 
 
 ## Secuencia de fundación
-Teniendo en cuenta todo lo analizado a este punto arranca la secuencia de fundacion. 
+Teniendo en cuenta todo lo analizado a este punto arranca la secuencia de fundacion. Aca es donde finalmente 
 
 
 ## Rondas iniciales
