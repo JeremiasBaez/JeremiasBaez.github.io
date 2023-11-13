@@ -20,10 +20,10 @@ timezone: AR
 
 title: J.B.C. # the main title
 
-tagline: Temas que me interesan, cosas flasheras que me llamaron la atencion, análisis random, ideas y pensamientos sueltos.  # it will display as the sub-title
+tagline: Temas interesantes, análisis, ideas y pensamientos sueltos. Escrito al bardo.  # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Una recopilacion de cosas que viajan entre conexiones neuronales usando el combustible del alma.
+  Recopilacion de señales que viajan por la autopista de conexiones neuronales de los sesos usando el combustible del alma.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://jeremiasbaez.github.io/"

@@ -4,7 +4,7 @@ title: "Musonio Rufo - El lujo es vulgaridad"
 date: 2023-10-21 08:00:00 -0500
 categories: ['Filosofía'] 
 tags: ['stoicismo', 'reflexiones', 'filosofía']
-published: false
+# published: false
 image:
 ---
 
