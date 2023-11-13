@@ -23,13 +23,13 @@ Cada quien explora sus propios criterios...
 
 A su vez todos estos criterios son relativos a lo que hace a una persona, su experiencia de vida, su entorno inmediato y ampliado, su familia, oportunidades obtenidas o esquivas a lo largo de su vida, etc.
 
-Ahora, ¿cual de todas las balanzas es la correcta? **Todas** son relativamente correctas (son correctas para uno). **Ninguna** es absolutamente correcta (correctas para todos los demas). El funcionamiento de esa balanza lo define uno en cuanto a sus valores, creencias y objetivos. 
+Ahora, ¿cual de todas las balanzas es la correcta? **Todas** son relativamente correctas (son correctas para uno). **Ninguna** es absolutamente correcta (correctas para todos los demás). El funcionamiento de esa balanza lo define uno en cuanto a sus valores, creencias y objetivos. 
 
 La democracia moderna, que es el sistema mas justo que tenemos disponible hoy por hoy para definir los destinos colectivos de la humanidad. Por definición nos dice que todas las balanzas son válidas a la hora de elegir cuando llega el momento en el cual patrioticamente sufragamos.
 
-Se puede hacer un doble click ahi, porque hay muchas democracias en muchos paises, y funcionan con algunas diferencias, algunas mejor, otras peor, pero la democracia argentina en particular es objetivamente sólida. Porque la recuperamos hace poco, se cumplieron 40 años hace un tiempito. Se puede mejorar, por supuesto, pero a pesar de todo tenemos la suerte de que sigue estando fuerte por ahora, solo tiene algunas grietas de mas (jeje).
+Se puede hacer un doble click ahi, porque hay muchas democracias en muchos paises, y funcionan con algunas diferencias, algunas mejor, otras peor, pero la democracia argentina en particular es objetivamente sólida. Porque la recuperamos hace poco y la memoria aún fresca, se cumplieron 40 años hace un tiempito. Se puede mejorar, por supuesto, pero a pesar de todo tenemos la suerte de que sigue estando fuerte por ahora, solo tiene algunas grietas de mas (jeje).
 
-Cuando llega el día, nos presentamos frente a las autoridades de mesa, vamos al cuarto oscuro, metemos las boletas de los partidos con los candidatos elegidos en un sobresuki, para luego en una segunda instancia, mandar el susodicho a la urna bajo la atenta mirada de las autoridades de mesa, saludamos, deseamos buen día y nos vamos. Y en ese simple y preciado proceso, en ese pequeño gran momento, es donde tenemos la oportunidad de indirectamente definir el futuro del país.
+Cuando llega el día, nos presentamos frente a las autoridades de mesa, vamos al cuarto oscuro, metemos la/s boleta/s de los partidos con los candidatos elegidos en un sobresuki, para luego en una segunda instancia, mandar el susodicho a la urna bajo la atenta mirada de las autoridades de mesa, saludamos, deseamos buen día y nos vamos. Y en ese simple y preciado proceso, en ese pequeño gran momento, es donde tenemos la oportunidad de indirectamente definir el futuro del país.
 
 Voy a pasar a enumerar algunos de mis criterios personales que uso en mi balanza personal, en el caso de esta elección particular, para que queden claros, compartas o no vos que estas leyendo. 
 
@@ -43,11 +43,11 @@ Me gusta ese termino que saque prestado de alguna clase que vi por ahi, es basta
 
 Dicho en criollo esto es que joraca puede llegar a pasar, y cuales son las posibilidades de cada uno de esos escenarios de acuerdo al resultado de la elección. 
 
-En cada sección trato masomeno (pero masomenos y a mi criterio eh..) analizar esto para cada tema. Ningun mortal tiene la bola de cristal mágica para ver a donde y como se van a dar las cosas, y con que probabilidades. Pase lo que pase el sol va a salir igual, se lamenta o se festeja, se reevalua y recalcula, se hace un nuevo balance y análisis, y finalmente se sigue adelante como lo hemos hecho en todos los días de nuestras vidas desde que tenemos uso de razón. 
+En cada sección trato masomeno (pero masomenos y a mi criterio eh..) analizar esto para cada tema. Ningun mortal tiene la bola de cristal mágica para ver a donde van a parar y como se van a dar las cosas, y con que probabilidades. Pase lo que pase el sol va a salir igual, se lamenta o se festeja, se revaluará y recalculará, se hará un nuevo balance y análisis, para finalmente seguir adelante como lo hemos hecho en todos los días de nuestras vidas desde que tenemos uso de razón. 
 
 # El gobierno
 
-Por suerte cada vez somos mas los que estamos hartos del discurso de la grieta, asi como que estamos de acuerdo que las instituciones no solo estan funcionando como el culo sino que están atrasadas en cuanto a su desarrollo y crecimiento. Están estancadas. Sin ningún orden particular:
+Por suerte noto que cada vez somos mas quienes estamos hartos del discurso de la grieta, asi como tambien solemos estar de acuerdo que las instituciones no solo estan funcionando como el culo sino que están atrasadas en cuanto a su desarrollo y crecimiento. Están estancadas. Sin ningún orden particular:
 
 - El poder ejecutivo
 - Los gremios
@@ -80,7 +80,7 @@ Mas allá de que la fuerza bruta parece imposible en el caso de Milei, no lo veo
 > En fín, en este tópico lo veo con mas chances de ejecutar cosas, de gobernar, a **Massa**, dentro del caos que se maneja en las instituciones actualmente. 
 {: .prompt-info }
 
-> A **Milei** lo veo chocandose contra las paredes institucionales, y creo que es solo una cuestión de tiempo hasta que decante por la alternativa de la violencia y la represión.
+> A **Milei** lo veo chocándose contra las paredes institucionales, y creo que es solo una cuestión de tiempo hasta que decante por la alternativa de la violencia y la represión.
 {: .prompt-danger }
 
 # El país y la geopolítica
@@ -93,9 +93,9 @@ Yo soy de quienes creen en una patria grande, autosuficiente y autosustentable, 
 
 Yo banco defender la soberanía nacional, hacer que el país sea autosuficiente, y que pueda mirar a la cara a los otros países, ya no como el deudor del mundo, sino teniendo un asiento en la mesa de organismos internacionales y siendo un socio comercial. Pero siempre defendiendo los intereses nacionales.
 
-En algún momento el discurso de **Milei** y sus mercados indiscriminadamente abiertos se choco con una pared ideológica que se puso el mismo. "Yo no negocio con países comunistas", refiriendose a Lula en brasil como un comunista, desdeñar al Papa.. ¿Ponerse en contra a los líderes de otros países porque sí? (Dos de los cuales son tus mayores socios comerciales). Ni los capitalistas mas capitalistas han cometido semejante estupidez autodestructiva. Si se replica esa postura en cuanto todas las relaciones internacionales, esta persona va a hacer mucho mas mal que bien a la situación del país en el mundo. 
+En algún momento el discurso de **Milei** y sus mercados indiscriminadamente abiertos se choco con una pared ideológica que se puso el mismo. "Yo no negocio con países comunistas", refiriendose a Lula en brasil como un comunista corrupto, desdeñando al Papa.. ¿Ponerse en contra a los líderes de otros países porque sí? (Dos de los cuales son tus mayores socios comerciales). Ni los capitalistas mas capitalistas han cometido semejante estupidez autodestructiva. Si se replica esa postura sobre todas las relaciones internacionales, esta persona va a hacer mucho mas mal que bien a la situación del país en el mundo. 
 
-Los mercados de todos los países estan conectados a sus políticas económicas internas. ¿Como negocias que aranceles para importar y exportar tenes con los otros países? Porque si vos no los cobras, porque abris irrestrictamente el mercado, ellos a vos sí te lo van a cobrar. ¿Como va eso a favor de los intereses de los argentinos que representas? Preguntas que jamás le preguntaron. 
+Los mercados de todos los países estan conectados a sus políticas económicas internas. ¿Como negocias que aranceles para importar y exportar tenes con los otros países? Porque si vos no los cobras, porque abrís irrestrictamente el mercado, ellos a vos sí te lo van a cobrar. ¿Como va eso a favor de los intereses de los argentinos que representas? Preguntas que jamás le preguntaron. 
 
 > Acá en cuanto a **Massa** solo sé que por lo menos no quema puentes con otros jefes de estado. Y que de por sí _se dice_ que tiene muchos vínculos con los yanquis, y así y todo no le tembló el pulso para viajar a China a repartir un poco mas de deuda para que no le debamos todo a estados unidos. Y no lo defaultearon desde el FMI _por ahora_. Por escaso margen, punto para Massa.
 {: .prompt-warning }
@@ -116,20 +116,21 @@ Cuando pienso en la economía argentina se me viene a la mente una imagen de una
 
 La situación es, en palabras de mi padre, _caótica desesperante_. 
 
-Entiendo y me parece una solución logicamente posible la de reventar esa maquina en mil pedazos con martillo, o en palabras mas de Milei, agarrarla con la motosierra. Solucion simple pero efectiva, una vez hecho eso se construye algo nuevo.. Ahora, el temita es un poco mas complejo que eso..
+Entiendo y me parece una solución logicamente posible la de reventar esa maquina en mil pedazos con martillo, o en palabras mas de Milei, agarrarla con la motosierra. Solución simple pero efectiva, una vez hecho eso se construye algo nuevo.. Ahora, el temita es un poco mas complejo que eso..
 
 > Estamos todos arriba de esa maquina.
 {: .prompt-danger }
 
-No veo que Milei tenga un plan económico viable en el que garantize, al menos como mínimo, darle tiempo a bajarse de la maquina a la gente antes de hacerla pedazos. 
+No coincido con los planos para la máquina anarcocapitalista que quiere armar Milei. Pero lo que realmente me preocupa, es que no veo que Milei tenga un plan económico viable en el que garantize, al menos, darle tiempo a bajarse de la maquina a la gente antes de hacerla pedazos. Como mínimo.
 
-Si tiene que estallar que estalle, salvese quien pueda. 
+Si tiene que estallar que estalle, sálvese quien pueda, todos a los botes..
 
-Y esta no me la cuentan, la vi en en vivo hace poquito, con un tipo que lo primero que hizo despues de ganar una paso fue salir a alentar una corrida bancaria, tensando para que explote todo antes de tiempo. Esa fue su segunda acción para influir sobre la economía como candidato a presidente. Mas de la vieja y confiable táctica, _mientras peor mejor_, total que reviente mientras el otro tiene las cosas a cargo, por unos votos mas. Que el gobierno actual se fume el quilombo, y despues implementar la famosa dolarizacion con la parte mas importante de la devaluación ya hecha. O por lo menos asi la veo yo..
+Y esta no me la cuentan, la vi en en vivo hace poquito, con un tipo que lo primero que hizo despues de ganar las **PASO** fue salir a alentar una corrida bancaria, tensando para que explote todo antes de tiempo. Esa fue su segunda acción para influir sobre la economía como candidato a presidente. Mas de la vieja y confiable táctica, _mientras peor mejor_, total que reviente mientras el otro tiene las cosas a cargo, por unos votos mas. Que el gobierno actual se fume el quilombo, y despues implementar la famosa dolarizacion con la parte mas importante de la devaluación ya hecha. O por lo menos asi la veo yo..
 
-La verdad que me sorprendio, porque el es la misma persona que había tratado de irresponsables (y con toda la razón del mundo) a los economistas de Juntos por el Cambio por pedirle al FMI que ponga al país al default porque gobiernan otros. Lo festeje en su momento, bien ahi Milei, y hasta tuve una esperanza que **sea un tipo responsable** mas alla de todo lo que lo vi decir, y de su ideología. Porque el presidente, sin importar de donde venga, tiene la responsabilidad de una parte de la vida de todos los argentinos, los que lo votaron y los que no. 
+La verdad que me sorprendió, porque el es la misma persona que había tratado de irresponsables (y con toda la razón del mundo) a los economistas de Juntos por el Cambio por pedirle al FMI que ponga al país al default porque gobiernan otros. Lo festejé en su momento, bien ahí Milei cuidando al país, y hasta tuve una esperanza que **sea un tipo responsable** mas alla de todo lo que lo vi decir, y de su ideología. Porque el presidente, sin importar de donde venga, tiene la responsabilidad de una parte de la vida de todos los argentinos, los que lo votaron y los que no. 
 
-Esto fue durante una de las inspecciones rutinarias del FMI donde ellos deciden si apretar o no el botón del default de deuda que nos mande bien a la mierda hasta que les paguemos lo que les debemos. Lindo regalito el de Macri.
+> Esto fue durante una de las inspecciones rutinarias del FMI donde ellos deciden si apretar o no el botón del default de deuda que nos mande bien a la mierda hasta que les paguemos lo que les debemos. Lindo regalito el de Macri.
+{: .prompt-tip }
 
 La realidad es que no importa a quien le explote la maquina, lo que importa es la consecuencia de que pase eso, y la historia nos marca que los que sufren siempre son los mismos y los que zafan (o hasta terminan mejor que antes) son los que mas tienen.
 
@@ -140,21 +141,23 @@ Aca va una pequeño corto de una buena película estadounidense sobre la crisis 
 
 {% include embed/youtube.html id='0k5aVLi_yhM' %}
 
-En resumen de cuenta, cuando la economía se va a la mierda, se pierden ahorros, casas, calidad de vida en general, empezando por los que menos tienen.
+Resumido en criollo, cuando la economía se va a la mierda, se pierden ahorros, casas, calidad de vida en general, empezando por los que menos tienen. Mas gente termina en la calle y aumenta la mortalidad, de golpe.
 
-Entiendo que esto ya esta pasando en la actualidad poco a poco, cual muerte por mil cortes. Pero el estallido es peor.
+Entiendo que esto ya esta pasando en la actualidad poco a poco, cual muerte por mil cortes, con los numeros actuales. Pero el estallido asegurado es peor que uno que tiene chances de ser evitado.
 
-Por otro lado, dentro de una perspectiva mundial me atrevo a aventurar que es un fenomeno común de las últimas decadas hasta en los paises mas adinerados. La concentración indiscriminada del capital nos viene llevando a un feudalismo económico que interfiere negativamente con el derecho irrestricto a la vida del prójimo. O por lo menos eso pienso yo, pidp disculpas si se me ve lo socialista (o _zurdo de mierda_). 
+Por otro lado, dentro de una perspectiva mundial me atrevo a aventurar que es un fenomeno común de las últimas décadas hasta en los paises mas adinerados. La concentración indiscriminada del capital nos viene llevando a un feudalismo económico que interfiere negativamente con el derecho irrestricto a la vida del prójimo. O por lo menos eso pienso yo, pido disculpas si se me ve lo socialista (o lo _zurdo de mierda_ según algunos con la jerga actual). 
 
 En fin, el resumen de este bloque es: estallido muy muy malo, desangrado lento malo pero gana tiempo para arreglar las cosas. 
 
-> **Massa** es menos probable que desate el _estallido_ que **Milei**. 
+> **Massa** es menos probable que desate el _estallido_ que **Milei**. Tiene chances de arreglar la máquina, por partes, no muchas pero mas que Milei.
 {: .prompt-info }
 
 # Lunes 20 - Todo cambia, todo sigue igual
 
 Falta poquito para el fin de este calvario de campaña electoral, que fue tan preocupante como entretenida. Explote o no explote todo, los memes fueron y van a seguir estando mortalazos jaja. Si saca una sonrisa ya vale. 
 
-Ninguno de nuestreos seres queridos y conocidos, que se identifiquen hoy con cualquiera que sea, se va a ir a ningun lado. El día de mañana nos vamos a tener que encontrar votando otra cosa. Y recordar que siempre, **siempre**, se le tiene que exigir mas a los políticos a los que uno les da su voto de confianza y te defraudan, que a los compatriotas que eligieron darle su voto de confianza a otro. 
+Ninguno de nuestros seres queridos y conocidos, que se identifiquen hoy con cualquiera que sea, se va a ir a ningún lado. El día de mañana nos vamos a tener que encontrar votando otra cosa. Y recordar que siempre, **siempre**, se le tiene que exigir mas a los políticos a los que uno les da su voto de confianza y te defraudan, que a los compatriotas que eligieron darle su voto de confianza a otro. 
 
-Y en el día de mañana, cuando se vuelva a elegir, que el foco no sea en a quien se voto antes, sino que paso, como paso, y que elegimos ahora con que queremos que pase mas adelante. Asi se construye una sociedad, y se evita destruir uno de los patrimonios mas preciados del ser humano, las relaciones entre nosotros.
+Y en el día de mañana, cuando se vuelva a elegir, que el foco no sea en a quien se voto antes, sino que paso, como paso, y que elegimos ahora de acuerdo a lo que queremos que pase mas adelante. Asi se construye una sociedad, y se evita destruir uno de los patrimonios mas preciados del ser humano, las relaciones entre nosotros, los que formamos parte de ella.
+
+Pase lo que pase, sin importar de que lado termine cayendo la moneda, hay que cuidarlas. Más en los tiempos difíciles.  
