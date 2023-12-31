@@ -31,7 +31,7 @@ Pero en este caso, se esperaba en general una patada en el culo a la casta polí
 ## Armando el propio
 Llega el momento de armar el propio. Primero es lo primero, vamos a ver como se veria un castometro generado por inteligencia artificial. 
 
-> Manera ladri de ilustrar conceptos siendo alguien que no ha tenido talento natural ni invertido tiempo en el noble arte del diseño y el arte grafico en general.
+> Manera ladri de usar la tecnología para ilustrar conceptos. Ya lo se pero.. Al ser alguien que no ha tenido talento natural ni invertido tiempo en el noble arte del diseño y el arte grafico en general, es la unica que me queda. 
 {: .prompt-info }
 
 La escala del castometro en esta caso va a ser simple, niveles del 1 al 6. Paso el describir los extremos y el medio de la escala.
@@ -40,15 +40,20 @@ La escala del castometro en esta caso va a ser simple, niveles del 1 al 6. Paso 
 3. Casta - Aquellos que son maleables a los tiempos que pasan y parecen bastante enamorados de la silla y del puesto que ocupan como para tener la iniciativa y buena leche de cambiar la realidad para bien. Suelen ser pasivos y ubicarse en posiciones de aprobar y desaprobar, y cuando no quieren hacer algo que vaya a favor de sus ciudadanos pero en contra del interes propio suelen dilatar las cuestiones.
 6. Alto contenido en Casta - Aquellos que directamente obtienen beneficios propios de las politicas que implementan y sistematicamente representan intereses sin ningun resguardo del bienestar social ni del país. No suele coincidir lo que dicen y como dicen que lo van a hacer con lo que hacen y como lo hacen.
 
-Ahora a listar criterios personales para el castometro no?
+Ahora a listar mis criterios personales totalmente subjetivos. 
 
-Estado en el que dejaron al Estado (valga la redundancia). Mas asociado a los recursos utilizados.
-Medidas que afectaron al pueblo. Mejoraron sus condiciones con su accionar o las empeoraron.
-Años en politica de estado. Suma o resta de acuerdo 
+- Estado en el que dejaron al Estado (valga la redundancia). Mas asociado a los recursos utilizados.
+- Medidas que afectaron al pueblo. Mejoraron sus condiciones con su accionar o las empeoraron.
+- Escandalos de corrupción que llevan a cuestas. 
+- Años en politica de estado. Suma o resta de acuerdo a los escandalos de corrupción que tengan encima. Si no tenes escandalos durante muchos años de carrera, el efecto es multiplicativo. 
+- Cumplimiento de compromisos de campaña o de gestion.
 
-NO se va a evaluar lo que hagan con sus personajes de campaña. 
+NO se va a evaluar lo que hagan con sus personajes de campaña. Esto es para darles un poco de changui.
+NO se va a evaluar la ideología. Solo la _Coherencia_ pir fivir. 
 
-### Mension especial: Sturzeneger
+## M. de Economia
+
+### Mencion especial: Sturzeneger
 
 Sturzeneger es implacable como el personaje de Schwarzeneger. Terminator decía "I'll be back" pero no se si no volvio tanto a manejar las cosas en la argentina como este tipo. Estaria bueno ver cuantas veces. Le acerquemos el castometro, pero la veo complicada. 
 
