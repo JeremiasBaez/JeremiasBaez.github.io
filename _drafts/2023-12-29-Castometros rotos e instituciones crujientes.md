@@ -28,8 +28,25 @@ Gente que solo prioriza estar (por intereses personales, economicos y de poder),
 
 Pero en este caso, se esperaba en general una patada en el culo a la casta política, o por lo menos hasta yo esperaba eso y lo veia como positivo. Y sin embargo... Se ve que su castometro se rompio el domingo en los festejos.
 
-## El castometro del jere 
+## Armando el propio
+Llega el momento de armar el propio. Primero es lo primero, vamos a ver como se veria un castometro generado por inteligencia artificial. 
 
+> Manera ladri de ilustrar conceptos siendo alguien que no ha tenido talento natural ni invertido tiempo en el noble arte del diseño y el arte grafico en general.
+{: .prompt-info }
+
+La escala del castometro en esta caso va a ser simple, niveles del 1 al 6. Paso el describir los extremos y el medio de la escala.
+
+1. Hombre/Mujer de estado - Esos politicos que cumplen bien su trabajo, gestionando bien y activamente buscan la mejora de las condiciones de vida de los ciudadanos que representan. Se condice lo que dice y lo que hacen, mas alla del como lo hacen. Aprenden de los errores.
+3. Casta - Aquellos que son maleables a los tiempos que pasan y parecen bastante enamorados de la silla y del puesto que ocupan como para tener la iniciativa y buena leche de cambiar la realidad para bien. Suelen ser pasivos y ubicarse en posiciones de aprobar y desaprobar, y cuando no quieren hacer algo que vaya a favor de sus ciudadanos pero en contra del interes propio suelen dilatar las cuestiones.
+6. Alto contenido en Casta - Aquellos que directamente obtienen beneficios propios de las politicas que implementan y sistematicamente representan intereses sin ningun resguardo del bienestar social ni del país. No suele coincidir lo que dicen y como dicen que lo van a hacer con lo que hacen y como lo hacen.
+
+Ahora a listar criterios personales para el castometro no?
+
+Estado en el que dejaron al Estado (valga la redundancia). Mas asociado a los recursos utilizados.
+Medidas que afectaron al pueblo. Mejoraron sus condiciones con su accionar o las empeoraron.
+Años en politica de estado. Suma o resta de acuerdo 
+
+NO se va a evaluar lo que hagan con sus personajes de campaña. 
 
 ### Mension especial: Sturzeneger
 
@@ -37,5 +54,4 @@ Sturzeneger es implacable como el personaje de Schwarzeneger. Terminator decía 
 
 
 
-
-# Instituciones crujientes
+# Conclusiones
