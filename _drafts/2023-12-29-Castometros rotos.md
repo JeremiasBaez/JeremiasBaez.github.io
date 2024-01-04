@@ -49,7 +49,7 @@ Ahora a listar mis criterios personales totalmente subjetivos.
 - Cumplimiento de compromisos de campaña o de gestion.
 
 NO se va a evaluar lo que hagan con sus personajes de campaña. Esto es para darles un poco de changui.
-NO se va a evaluar la ideología. Solo la _Coherencia_ pir fivir. 
+NO se va a evaluar la ideología. Solo la _Coherencia_. 
 
 ## M. de Economia
 
