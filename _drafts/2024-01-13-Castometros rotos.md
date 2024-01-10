@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Castometros rotos e instituciones crujientes"
-date: 2023-11-12 23:00:00 -0300
+title: "Castometros rotos"
+date: 2023-11-13 23:00:00 -0300
 categories: ['Politica'] 
 tags: ['elecciones', 'politica', 'analisis politico', ]
 published: true
-img_path: /assets/img/posts/20231112-presidencial/
+img_path:
 ---
 
 # Por fin se termino!
