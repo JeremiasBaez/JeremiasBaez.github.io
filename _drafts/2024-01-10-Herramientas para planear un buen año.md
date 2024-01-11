@@ -11,7 +11,7 @@ image:
 
 :green_apple:
 
-Cosa extraña los años nuevos. Desde el marco de referencia temporal, son solo una fecha arbitraria en el cual se cumple el intervalo de tiempo fijo que demora nuestro planeta en dar una vuelta al sol. Es como el cumpleaños del mundo en cierta forma, y nosotros los humanos a los que toda excusa nos viene bien para festejar, aprovechamos a festejar con la tierra. Pero no es solo el festejo lo que nos invade en estas fechas, sino tambien compartimos el fin de ciclo. El año nuevo propio se vive individualmente, el año nuevo del planeta es colectivo. Nos invaden sentimientos encontrados de festejos y nostalgia de un año que puede que hayamos sentido eterno o que se nos paso volando. Dependiendo de esos sentimientos y percepciones puede aparecer una necesidad de rememorar lo vivido y de pensar con lo que se viene. Balances y planificaciones. Ver donde nos fue bien, ver donde nos fue mal, que corregir, que reforzar, pero sobre todo lo que mas nos entusiasma son los deseos que tenemos para el año que entra. Ahora bien, para mejorar las chances de que estos deseos se cumplan, es necesario desglosarlos en objetivos concretos realizables. Pasado en limpio esto seria:
+Cosa extraña los años nuevos. Desde un marco de referencia temporal, son solo una fecha arbitraria en la cual se cumple el intervalo de tiempo fijo que demora nuestro planeta en dar una vuelta al sol. Es como el cumpleaños del mundo en cierta forma, y nosotros los humanos a los que toda excusa nos viene bien para festejar, aprovechamos a festejar con él, con justa razon. Pero no es solo el festejo lo que nos invade en estas fechas, sino tambien compartimos el fin de ciclo. El año nuevo propio se vive individualmente, el año nuevo del planeta es colectivo. Nos invaden sentimientos encontrados de festejos y nostalgia de un año que puede que hayamos sentido eterno o que se nos paso volando. Dependiendo de esos sentimientos y percepciones puede aparecer una necesidad de rememorar lo vivido y de pensar con lo que se viene. Balances y planificaciones. Ver donde nos fue bien, ver donde nos fue mal, que corregir, que reforzar, pero sobre todo lo que mas nos entusiasma son los deseos que tenemos para el año que entra. Ahora bien, para mejorar las chances de que estos deseos se cumplan, es necesario desglosarlos en objetivos concretos realizables. Pasado en limpio esto seria:
 
 - El balance del año anterior
     - Lo analitico y racional: Los objetivos del año cumplidos o fallados y sus respectivas causas, internas (bajo mi control) y/o externas (eventos del mundo).
@@ -22,7 +22,7 @@ Cosa extraña los años nuevos. Desde el marco de referencia temporal, son solo 
 
 Ahora, vos me podrias decir en este momento "Todo bien, muy bonito lo que me contas, pero es muy complicado sentarme y ponerme a escribir eso.. no estoy acostumbrado a hacerme estas preguntas". Tenes razón. Me paso lo mismo. Hasta que tuve la suerte de encontrar una herramienta en un canal de Youtube de un artista australiano en 2022 llamado struthless. 
 
-Por esa suerte es que aca te traigo la primer herramienta que descubri hace 3 en ese video de titulo que a priori _es bait_, pero que resulto no serlo para mi. Se llama _Year compass_, que se traduce a _Brújula Anual_ en español.
+Por esa suerte es que aca les traigo la primer herramienta que descubri hace 3 en ese video de titulo que a priori _es bait_, pero que finalmente resulto no serlo para mi :lol: . Se llama _Year compass_, que se traduce a _Brújula Anual_ en español.
 
 # Las brújulas
 

@@ -5,7 +5,10 @@ date: 2023-10-21 08:00:00 -0500
 categories: ['Juegos de mesa', 'Catan'] 
 tags: ['catan', 'tutoriales']
 published: true
-img_path: /assets/img/posts/20231021-catan/
+img_path: /assets/img/posts-compressed/
+image:
+ path: 2023-10-20-catan.webp
+ lqip: data:image/webp;base64,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
 ---
 
 # Catan, un humilde tutorial - Parte 1
@@ -65,7 +68,7 @@ Ver cuales posibles expansiones me van a quedar despues del primer y el segundo 
 ### Produccion, producción, producción
 En este caso, tomamos nota de las ubicaciones que tengan mejor producción. Se calcula con las 2 o 3 losetas alredor del pueblo a fundar. Debido a la forma que se distribuyen los numeros en el armado (y dependiendo también de la ubicacion al azar del desierto) hay ciertos patrones de lugares con mas produccion que suelen aparecer comunmente. 5-9-10, 6-9-3 , 8-5-10, etc. Cada numero tiene un tamaño o numero de puntos que representan las probabilidades del resultado de tirar el par de dados. La regla general, los numeros mas cercanos al 7 son mejores, que es el numero que mas probabilidades de salir tiene.
 
-![Tabla de probabilidades](probabilidades.png)
+![Tabla de probabilidades](2023-10-20-probabilidades.webp)
 
 Haciendo aburridos números y visto en forma de tabla llegamos a las probabilidades porcentuales. En la primer columna esta la suma de los 2 dados, en la segunda las chances cada 36 tiradas de que salga la combinación y en la tercera el calculo porcentual de la producción en sí.
 

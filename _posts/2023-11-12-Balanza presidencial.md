@@ -5,7 +5,7 @@ date: 2023-11-12 23:00:00 -0300
 categories: ['Politica'] 
 tags: ['elecciones', 'politica', 'analisis politico', ]
 published: true
-img_path: /assets/img/posts/20231112-presidencial/
+img_path: /assets/img/posts-compressed/
 ---
 
 # Queloque y paque es esta balanza
@@ -104,11 +104,11 @@ Los mercados de todos los países estan conectados a sus políticas económicas 
 
 Cuando pienso en la economía argentina se me viene a la mente una imagen de una enorme maquina funcionando con muchas partes a punto de romperse, chorreando aceite por algunas juntas, cubierta de arreglos hechos con alambre, cinta, precintos y la gotita entre otras cosas.. Es evidente que funciona mal.
 
-![Interpretacion medieval](economia.png)
+![Interpretacion medieval](2023-11-12-economia.webp)
 
-![Interpretacion tipo dune](economia2.png)
+![Interpretacion tipo dune](2023-11-12-economia2.webp)
 
-![Interpretacion en caricatura](leonardo-economia.jpg)
+![Interpretacion en caricatura](2023-11-12-leonardo-economia.webp)
 
 
 > Cada uno tendra su representación, yo le pase la mía a algunos generadores de imágenes de IA online gratis: [Stable diffusion](https://stablediffusionweb.com) con el modelo de ese nombre, [Craiyon](https://www.craiyon.com) que tengo entendido que usa Dall-E y [Leonardo](https://leonardo.ai/), otro tipo de modelo. Esos fueron los resultados ja.
