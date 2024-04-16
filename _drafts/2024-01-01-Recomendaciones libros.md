@@ -26,11 +26,12 @@ Buenas! Comparto mi lista de lectura. Si andas buscando algo para leer, te puede
 
 ## Policiales
 
+- 
+
 ## Clasicos
 
-- La Iliada
-- La Odisea
 - El príncipe
+- La Odisea
 - Viaje al mundo en 80 días
 - Dracula
 - El arte de la guerra
@@ -45,3 +46,5 @@ Buenas! Comparto mi lista de lectura. Si andas buscando algo para leer, te puede
 - The Checklist Manifesto 
 - The pattern seekers
 - The 12 week year
+- Los 3 usos del cuchillo
+- 

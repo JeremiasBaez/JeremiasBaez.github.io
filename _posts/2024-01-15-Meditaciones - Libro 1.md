@@ -26,10 +26,9 @@ Los textos originales fueron escritos en latin, y probablemente haya traduccione
 > Las traducciones son de hace 100 a 400 años. De algo que fue escrito hace 1800 años atrás. La preservación del conocimiento al pasar el tiempo es algo que inspira tanto como inquieta visto en la escala del poco tiempo de historia del cual tenemos registros actualmente.
 {: .prompt-info } 
 
-Ahora, no se si con esto de una traducción en el aire alcanza.. Hay que argentinizar un poco la cosa. Todo muy lejos sino. Roma esta lejazo. Fue hace un montonazo de años, como les dije un poco mas arriba.. 
+Ahora, no se si con esto de una traducción en el aire alcanza.. Hay que argentinizar un poco la cosa. Todo muy lejos sino. Roma esta lejazo. Aparte fue hace un montonazo de años, como les dije un poco mas arriba.. 
 
 ![Vive lejos el Papa: 11300 Km. desde la Plaza San Martin de Cordoba a la casa del Papa en el vaticano](2024-03-19-cba-roma.webp)
-
 
 En fin, como para meterle una vuelta de tuerca, se presenta entonces, el personaje ficticio de Marco Argento. Este autor, a diferencia del gran Emperador Romano, parece que vivió en Argentina por como habla. Encontramos su diario en el fondo de un cajon de una mesita de luz que rescatamos de su triste destino de quedar tirada en la vereda sin utilidad ni hogar.. Y nos mato la curiosidad, una pagina nos llevo a la otra (por no decir que somos unos chusmas).
 
@@ -39,49 +38,49 @@ En fin, como para meterle una vuelta de tuerca, se presenta entonces, el persona
 De mi abuelo Valentino aprendí a ser educado, y a tener bajo control los enojos y las broncas. 
 
 ## 2 - Padre de Sangre
-De la fama y la memoria que construyó mi padre en vida, he aprendido la modestia y como debe ser una persona de bien. 
+De la fama y la memoria que construyó mi padre en vida, he aprendido lo que es la modestia y como debe ser una persona de bien. 
 
 ## 3 - Madre
-De mi madre he aprendido a ser piadoso y generoso, a abstenerme de las malas acciones y de los malos pensamientos, a vivir contento con lo que se tiene en la mesa y a evitar todos los excesos. Algo que no suele ser costumbre entre nosotros, los acaudalados. 
+De mi madre he aprendido a ser piadoso y generoso, a abstenerme de las malas acciones y los malos pensamientos, a vivir contento con lo que se tiene en la mesa y a evitar todos los excesos. Algo que no suele ser costumbre en los que tuvimos suerte de nacer mas adinerados. 
 
 ## 4 - Bisabuelo
-Le debo a mi bisabuelo las costumbres de frecuentar escuelas publicas, auditorios, y a buscar maestros privados buenos y capaces para enseñarme las cosas que me falten aprender. Le debo también el conocimiento de que todo gasto en estos rubros es dinero bien invertido.
+Le debo a mi bisabuelo la costumbre de ir a la escuela, a los auditorios de clases publicas, y a buscar maestros buenos y capaces para enseñarme las cosas que me haga falta aprender. También le debo el conocimiento de que todo gasto en estos rubros es plata bien gastada.
 
 ## 5 - Mi tutor
-Quien me ha criado, me ha enseñado a no favorecer ni a uno ni a otro en las carreras de autos, ni a apostar en las peleas por el favorito ni por el retador. Mas aun, a poner el lomo y soportar los trabajos duros, a no necesitar muchas cosas, a hacer las cosas yo mismo sin molestar a otros, a no meterme en los asuntos personales de los demás sin ser consultado, y a no darle bola ni prestar oído a los chismes e insultos contra otras personas.
+Quien me ha criado, me ha enseñado a no tener favoritos en las carreras de autos, ni a apostar en las peleas, incluso si pensas tener una segura. En lugar de eso, a poner el lomo y soportar los trabajos duros, a no necesitar muchas cosas, a hacer las cosas uno mismo sin molestar a los demas, a no meterme en los asuntos personales de otras personas sin ser consultado, y a no darle bola ni prestar oído a los chismes e insultos contra la gente que no conocemos.
 
 ## 6 - Domingo
 Del Domingo he aprendido:
-- A no perder el tiempo con vanidades.
-- A no creer ciegamente en las cosas que pretenden ser milagrosas, en brujas y brujos, en impostores y manosantas que expulsan demonios y espíritus malignos.
+- A no perder el tiempo con boludeces.
+- A no andar creyendo ciegamente en las cosas que dicen ser milagrosas, en brujas y brujos o en impostores y manosantas que expulsan demonios y espíritus malignos.
 - A no usar los gallos ni cualquier otro animal vivo para la pelea, para rituales de adivinación oscuros, ni gualichos.
-- A no ofenderme con la libertad de expresión de otros y a aplicarme de corazón en los estudios.
+- A no ofenderme con la libertad de expresión de otras personas y a aplicarme de corazón en los estudios.
 
-A el también debo agradecerle el haber conocido a otros grandes maestros y aprender a escribir obras en mi juventud. Finalmente, a adoptar y hacer propio el estilo de vida criollo, de campo y poncho, de ciudad e industria.
+A el también le debo agradecer haber podido conocer a otros grandes maestros, y el aprender a escribir obras en mi juventud. Finalmente, a adoptar y hacer propio el estilo de vida criollo que pide la patria, de naturaleza y campo, de ciudad e industria.
 
 ## 7 - Rustico
-Al Rustico le debo haber podido reconocer que se necesita entrenar y disciplinar el carácter y la personalidad. También a no caer en (ni distraerme con) la retorica de los sofistas que hablan lindo, escribiendo textos especulativos o denunciando moralmente en publico a la gente. A no presumir ni buscar la admiración por ser aplicado, paciente o estar físicamente bien entrenado. Por él deje el estudio de la retorica y la poesía de lenguaje elegante. 
+Al Rustico le debo la sabiduría para reconocer que se necesita entrenar y disciplinar el carácter y la personalidad. También a no caer en, ni distraerme con, la retorica de los mentirosos que hablan lindo. Aquellos que se la pasan escribiendo especulaciones o denunciando moralmente en publico a la gente. Luego me enseñó a no presumir ni buscar la admiración por ser aplicado, paciente o estar bien entrenado. Por él fue que dejé el estudio de la retorica y la poesía. 
 
-Aprendí a no pasearme por mi casa con mi traje de senador, ni sacar provecho de usarlo fuera del senado. Pude leer el estilo simple de sus cartas, en particular las que le enviaba a mi madre desde Salta. Aprendí de el a ser ameno, amigable, y a estar siempre presto y listo para la reconciliación con quienes me hallan fallado u ofendido, siempre y cuando genuinamente quieran la paz. A leer, oir y ver con cuidado, y no quedarme satisfecho con solo el conocimiento superficial, ni asentir ni dar la razón rápidamente a quienes hablan lindo, o quienes se creen dueños del sentido común. 
+Aprendí a no pasear por mi casa con el traje de senador, ni sacar provecho de usarlo fuera del senado. Pude leer el estilo de sus cartas, en particular las que le enviaba a mi madre desde Salta. De verlo a el aprendí a buscar ser ameno, amigable, y a estar siempre listo y presto para la arreglar las cosas con quienes me hallan fallado, mentido u ofendido. Siempre y cuando genuinamente quieran hacer la paz. A leer, oir y ver atento y con cuidado. No quedarme satisfecho solamente con el conocimiento superficial, ni andar asintiendo y dando la razón asi nomás a los que hablan lindo, o se creen dueños del sentido común. 
 
-También tengo para agradecerle la pila de libros que me presto, con títulos de grandes autores en multiples disciplinas.
+También tengo para agradecerle la cantidad de libros que me prestó, con títulos de grandes autores en multiples disciplinas.
 
 ## 8 - Apolo
-El Apolo me enseño la verdadera libertad y la tenacidad del propósito, a no darle bola a casi nada: solamente darle bola al bien y a la razón. 
+De Apolo aprendí que es la libertad real y sobre la tenacidad del propósito. A no darle bola a casi nada: solamente darle bola al bien y a la razón. También a siempre ser la misma persona, sin importar si se está bajo el mayor de los dolores y sufrimiento que uno puede imaginar, sean estos fisicos o emocionales. 
 
-También a siempre ser el mismo hombre, sin importar si se está bajo el mayor de los dolores imaginables, físicos y/o emocionales. Él ha demostrado también que se puede ser al mismo tiempo estricto y relajado. Era paciente cuando enseñaba y no se molestaba con sus alumnos ni evaluadores. Que con su magnifica habilidad, talento natural y amplias facultades, enseñaba y persuadía a otros con sus teoremas y sus máximas de la filosofía Estoica. 
+Él ha demostrado a lo largo de su vida que se puede ser al mismo tiempo estricto y vivir relajado. Era paciente cuando enseñaba algo y no se enojaba con sus alumnos ni quienes lo evaluaban. Con sus magnificas habilidades, talento natural y amplias facultades, enseñaba y persuadía a otros con sus teoremas y sus máximas de la filosofía Estoica. 
 
-Fue también de él que aprendí como se deben recibir favores y regalos: humilde y respetuosamente. A no sentirme humillado cuando los necesite, y mucho menos ser ingrato al recibirlos.
+Fue también de él que aprendí como se deben recibir favores y regalos: humilde y respetuosamente. Que no hay que sentirse humillado cuando necesite alguno, y mucho menos ser ingrato al recibir la bondad de otra persona.
 
 ## 9 - Sexto
-Siempre tuve como modelo el buen temperamento del Sexto, y recuerdo su familia como el modelo de la familia conducida con el afecto del padre a la vista. También me contagió el propósito de vivir de acuerdo a la naturaleza. Como ser serio sin aires de superioridad, el estar atento a las necesidades y gustos de mis amigos, a no ofenderme con los idiotas, tolerar a los ignorantes y aquellos que repiten opiniones sin pensarlas ellos mismos. 
+Siempre tuve a Sexto como ejemplo del buen temperamento, y recuerdo a su familia como una que creció con el afecto del padre a la vista. También me contagió el propósito de vivir de acuerdo a la naturaleza. Lo importante de ser serio sin andar con aires de superioridad  creyendo ser mas que los otros. A estar atento a las necesidades y gustos de mis amigos. A no ofenderme con los idiotas, tolerar a los ignorantes y aquellos que repiten opiniones sin pensarlas ellos mismos. 
 
-Fue un ejemplo de como se puede conversar con todas las personas y en las mas variadas compañías, de una forma que haga mas placenteras y amigables las charlas de lo que cualquier chupamedias o aplaudidor jamás podría lograr, siendo reverenciado y respetado por eso. 
+Sus conversaciones demostraban constantemente como es posible conversar con todo tipo de personas y en las mas variadas compañías, con distintas historias de vida, creencias y profesiones. Se comunicaba de una forma que hacia mas placentera y amigable cualquier charla, mucho mas de lo que cualquier chupamedias o aplaudidor jamás podría lograr. Fue halagado y respetado por eso. 
 
-Ninguna persona fue mas feliz que él, en su búsqueda eterna de comprender, averiguar, aprender y ordenar precisa y exactamente las grandes máximas de la vida, instrucciones necesarias para progresar y salir adelante en ella. Tengo presente su ejemplo de no demostrar enojo ni otras emociones a menudo. El hacia esto mientras al mismo tiempo poseía el corazón mas tierno y afectuoso que he conocido. Y sin hacer ruido o generar rumores, aprendiendo mucho y ostentando poco.
+Fue la persona mas feliz que conocí cuando se dedicaba a su búsqueda eterna de comprender, averiguar, aprender y ordenar con precisión y exactitud las grandes máximas de la vida y las instrucciones necesarias para progresar y salir adelante. Tengo presente su ejemplo de no demostrar enojo ni otras emociones a menudo. Contrariamente a esa apariencia externa, poseía al mismo tiempo el corazón mas tierno y afectuoso que he conocido. Y sin hacer ruido o generar rumores, aprendiendo mucho y ostentando poco.
 
 ## 10 - Alejandro Gramajo
-De el aprendí a que no hay que andar corrigiendo a la gente todo el tiempo, a no tratarlos de burros cuando pronuncian algo mal o confunden una palabra. En lugar de eso, pronunciar correctamente las palabras, sin burlas, poniendo el foco en hablar del contenido del asunto en cuestión, sin importar las palabras con las que haya sido descripto. 
+De el aprendí que no hay que andar corrigiendo a la gente todo el tiempo y a no tratarlos de burros cuando pronuncian algo mal o confunden una palabra. En lugar de eso, pronunciar correctamente las palabras, sin burlas, poniendo el foco en hablar del contenido del asunto en cuestión, sin importar las palabras con las que haya sido descripto. 
 
 Las respuestas, testimonios, ejemplos, opiniones o confirmaciones deben ser del tema de conversación, sin importar lo que otros digan. Siempre lo vi sugerir las correcciones como corresponde: con amabilidad y cortesía. 
 
@@ -112,7 +111,7 @@ De lo divino recibí el regalo de tener abuelos, padres, una hermana, maestros, 
 
 El primer tomo de sus escritos arranca con un repaso mental de las personas que lo formaron directa o indirectamente, de las lecciones que aprendió de ellos, aprendizajes que ve como "deudas" contraídas. Cuando se ve desde esta perspectiva, el mensaje inicial es simple: debemos lo que somos a otras personas. Lo que consideramos bueno, lo que consideramos malo, la manera de manejarse al transitar la vida en todos sus ámbitos, laborales, personales, espirituales, existenciales. Uno elije los aprendizajes que va eligiendo adoptar, y cuales va eligiendo eliminar, pero en todo momento esa lista existe en la vida, y asi como existe va cambiando. Asi en el aire, ¿cuantos pequeños aprendizajes se te vienen a la mente, y quien te los transmitió? Desde la familia en el atarse los cordones, o algo tan simple como pelar una fruta, hasta los compañeros de todos los ámbitos con quienes compartimos cada día, a todos les debemos algo. Hoy en día, hasta a las personas del otro lado de un teclado, pantalla, medio y papel de la información que consumimos y decidimos incorporar como propia.
 
-Asi también queda expuesta la otra cara de esta moneda. Que es la influencia que tenemos sobre los demás. ¿Cuanto de lo listado fue por observación? Uno no suele tener cuidado en esto, es difícil abstraerse y pensar como nos verán otras personas. Sobre todo porque puede que no nos guste la respuesta. Pero si es importante tenerlo presente, para que la gente tenga como aprendizajes, como "deudas" con nosotros, buenas características, buenas lecciones y buenos valores.
+Asi también queda expuesta la otra cara de esta moneda. Que es la influencia que tenemos sobre los demás. ¿Cuánto de lo listado fue por observación? Uno no suele tener cuidado en esto, es difícil abstraerse y pensar como nos verán otras personas. Sobre todo porque puede que no nos guste la respuesta. Pero si es importante tenerlo presente, para que la gente tenga como aprendizajes, como "deudas" con nosotros, buenas características, buenas lecciones y buenos valores.
 
 ---
 
