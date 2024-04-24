@@ -21,3 +21,6 @@ package-lock.json
 # Misc
 assets/js/dist
 assets/img/raw
+
+# Drafts
+_drafts/
